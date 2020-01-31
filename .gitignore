@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+test/unit/coverage
+.idea
+index.sublime-workspace
+npm-shrinkwrap.json
+coverage/
+.nyc_output/
